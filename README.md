@@ -27,35 +27,75 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 
 ### 💻 Tecnologías que uso
 
-| 💗 **Categoría** | ⚙️ **Herramientas** |
-|------------------|----------------------|
-| **Testing Manual** | Casos de prueba, reportes de bugs, Jira |
-| **Automatización** | Cypress, Playwright, Selenium | katalon | JMeter |
+| 💼 Área de especialización | ⚙️ Herramientas y Tecnologías |
+|-----------------------------|-------------------------------|
+| **Testing Manual** | Casos de prueba · Reportes de bugs · Jira |
+| **Automatización de Pruebas** | Cypress · Playwright · Selenium |
 | **API Testing** | Postman |
-| **Base de datos** | MySQL, SQLite |
-| **Control de versiones** | Git, GitHub |
-| **Lenguajes** | JavaScript, Python |
-| **Gestión y documentación:**| Jira · Confluence  |
-|**Versionado y colaboración:** |Git · GitHub  
+| **Bases de Datos** | MySQL |
+| **Lenguajes de Programación** | Python · JavaScript |
+| **Gestión y Documentación** | Jira · Confluence |
+| **Control de Versiones y Colaboración** | Git · GitHub | 
 
 
 ---
 
 ### 📂 Mis proyectos
-- [**qa-ui-smoke-shop**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop):  
+- [**Proyectos QA**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop):  
   Proyecto de pruebas automatizadas UI desarrollado con **Cypress** y **Python (Pytest)**.  
   Incluye **smoke testing**, **functional testing** y validaciones de flujos críticos en un entorno de **e-commerce**.  
   Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
   
   ---
 
-### 💌 Conectemos
+## 🧩 Mis proyectos  
 
+### 🐍 **Python – Pruebas de Automatización y QA**
+Repositorio con pruebas automatizadas, validaciones funcionales y scripts de práctica en Python.  
+Incluye casos como:
+- **Login y búsqueda en Google con Selenium**  
+- **Validaciones de formularios y API con Requests**  
+- **Pruebas unitarias con Unittest y Pytest**
 
-💼 **LinkedIn:** [María Belén Franco](https://www.linkedin.com/in/maria-belen-franco-396aab374/)
 
 ---
 
+### ⚡ **Cypress – Pruebas End-to-End**
+Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de prueba reales:  
+- Flujos de login válidos e inválidos  
+- Agregar productos al carrito y checkout  
+- Flujo bancario automatizado  
+- Smoke Tests de regresión
+
+🧠 **Selenium – Pruebas de Automatización Web**
+
+Repositorio con pruebas automatizadas utilizando **Selenium WebDriver** y **Python**, enfocadas en la validación de flujos web y testing funcional.  
+Incluye casos como:  
+- Login válido e inválido en **SauceDemo**  
+- Navegación y verificación de elementos en interfaz de usuario  
+- Pruebas de carrito y eliminación de productos  
+- Validación de enlaces y flujo de compra
+
+
+---
+
+## 🎓 Formación  
+
+- 🎓 **Testing QA y Python – UTN**  
+- 💻 **Tecnicatura Universitaria en Programación – UTN (inicio marzo)**  
+- 📘 Formación complementaria en **metodologías ágiles**, **Postman** y **automatización web**.  
+
+---
+
+
+## 📫 Contacto  
+
 <p align="center">
-  🌟 *Gracias por visitar mi perfil* 🌟
+  <a href="https://www.linkedin.com/in/belen-franco-356b5b396/">
+    <img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maria.belen.franco2012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-651FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+<p align="center"><i>✨ “Lo que hacemos en esta vida, resuena en la eternidad.” ✨</i></p>
