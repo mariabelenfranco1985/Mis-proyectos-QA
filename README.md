@@ -4,6 +4,7 @@
 
 </p>
 
+
 <!-- 💜 Herramientas y Tecnologías -->
 <p align="center">
   <img src="https://img.shields.io/badge/CYPRESS-7b2cbf?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -18,10 +19,14 @@
 ---
 
 ### 🌸 ¡Hola, soy María Belén Franco!
-Tester QA Jr. apasionada por la tecnología y el control de calidad de software.  
-Actualmente realizo **pruebas manuales y automatizadas** enfocadas en la calidad de interfaces gráficas (UI) y flujos funcionales.  
-Desarrollo y ejecuto pruebas con **Cypress** y **Python (Pytest)**, aplicando buenas prácticas de QA, control de versiones con **Git/GitHub**, y documentación clara de resultados.  
-Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance**, perfeccionando mis habilidades técnicas y participando en proyectos que desafíen mis conocimientos.  
+**Tester QA Jr. apasionada por la tecnología y el control de calidad de software.**
+
+Actualmente realizo pruebas manuales y automatizadas enfocadas en la **calidad** y el correcto funcionamiento de los flujos del sistema.
+
+Desarrollo y ejecuto pruebas con **Cypress y Python (Pytest)**, aplicando buenas prácticas de QA, control de versiones con **Git/GitHub**, y documentación clara de resultados.
+
+Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance**, perfeccionando mis habilidades técnicas y participando en proyectos que desafíen mis conocimientos.
+
 
 ---
 
@@ -41,7 +46,7 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 ---
 
 ### 📂 Mis proyectos
-- [**Proyectos QA**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop):  
+- **[Proyectos QA](https://github.com/mariabelenfranco1985/Mis-proyectos-QA)**  
   Proyecto de pruebas automatizadas UI desarrollado con **Cypress** y **Python (Pytest)**.  
   Incluye **smoke testing**, **functional testing** y validaciones de flujos críticos en un entorno de **e-commerce**.  
   Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
@@ -51,47 +56,31 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 ## 🧩 Mis proyectos  
 
 ### 🐍 **Python – Pruebas de Automatización y QA**
-Repositorio con pruebas automatizadas, validaciones funcionales y scripts de práctica en Python.  
-Incluye casos como:
-- **Login y búsqueda en Google con Selenium**  
-- **Validaciones de formularios y API con Requests**  
-- **Pruebas unitarias con Unittest y Pytest**
-
-
----
-
-### ⚡ **Cypress – Pruebas End-to-End**
-Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de prueba reales:  
-- Flujos de login válidos e inválidos  
-- Agregar productos al carrito y checkout  
-- Flujo bancario automatizado  
-- Smoke Tests de regresión
-
-🧠 **Selenium – Pruebas de Automatización Web**
-
-Repositorio con pruebas automatizadas utilizando **Selenium WebDriver** y **Python**, enfocadas en la validación de flujos web y testing funcional.  
+Desarrollo de pruebas automatizadas con **Python**, **Selenium WebDriver** y **Cypress**, enfocadas en la validación funcional y end-to-end de aplicaciones web.  
 Incluye casos como:  
-- Login válido e inválido en **SauceDemo**  
-- Navegación y verificación de elementos en interfaz de usuario  
-- Pruebas de carrito y eliminación de productos  
-- Validación de enlaces y flujo de compra
+- Flujos de login válidos e inválidos  
+- Búsqueda, filtrado y validación de productos  
+- Agregar y eliminar ítems del carrito  
+- Checkout y flujo bancario automatizado  
+- Validaciones de formularios y APIs con Requests  
+- Pruebas unitarias con Unittest y Pytest
 
 
 ---
 
 ## 🎓 Formación  
 
-- 🎓 **Testing QA y Python – UTN**  
+- 🎓 **Testing QA y Python – UTN**
+- 🎓 **Testing QA automatizado – EDUCACION IT**
 - 💻 **Tecnicatura Universitaria en Programación – UTN (inicio marzo)**  
 - 📘 Formación complementaria en **metodologías ágiles**, **Postman** y **automatización web**.  
 
 ---
 
-
 ## 📫 Contacto  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/belen-franco-356b5b396/">
+  <a href="https://www.linkedin.com/in/maria-belen-franco-396aab374">
     <img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maria.belen.franco2012@gmail.com">
